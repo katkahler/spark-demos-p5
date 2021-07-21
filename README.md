@@ -23,6 +23,7 @@ In this lesson, campers learned about finding color based on position in an imag
 
 ![rainbow brush](file:///C:/Users/epick/OneDrive/Pictures/Screenshots/2021-07-21%20(1).png)<img width="309" alt="2021-07-21 (2)" src="https://user-images.githubusercontent.com/84355976/126533792-b45931b6-8ec3-4bb9-a8a8-1e225cd9c3f3.png">
 <img width="309" alt="2021-07-21 (2)" src="https://user-images.githubusercontent.com/84355976/126533817-98a401b7-6d24-411f-939a-654b5043e7d6.png">
+
 ![dots](file:///C:/Users/epick/OneDrive/Pictures/Screenshots/2021-07-21%20(3).png)
 
 
