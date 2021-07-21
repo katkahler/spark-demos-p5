@@ -1,5 +1,6 @@
 # Summer Spark p5js and Processing Demos
 A collection of demos and projects that I wrote and taught for lessons during Summer Spark
+
 Languages: JavaScript, Java Processing, Snap (UC Berkeley) (visual coding with blocks) 
 
 I designed 10+ lessons for Summer Spark, including the entirety of our week dedicated to creative coding. Here I have examples of demos done in p5 and a few of the lesson plans as well! 
