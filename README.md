@@ -27,4 +27,5 @@ In this lesson, campers learned about finding color based on position in an imag
 
 I taught throughout this week as well using Java Processing and other game-making websites such as Stencyl.
 The 3D bouncing ball demo was an extra challenge added to the 2D bouncing ball lesson, used to teach if statements and animation. 
+
 <a href="https://imgur.com/Gd6cEap"><img width="300" src="https://i.imgur.com/Gd6cEap.png" title="source: imgur.com" /></a>
